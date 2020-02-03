@@ -4,4 +4,4 @@ class Song
   @@artist = []
   @@genre = []
   
-  def .count
+  def initialize()
